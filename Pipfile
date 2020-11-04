@@ -13,6 +13,7 @@ pillow = "*"
 djangorestframework = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.8"
